@@ -24385,3 +24385,474 @@ console.warn: services.settings: main/partitioning-exempt-urls sync interrupted 
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1600163248505	geckodriver	INFO	Listening on 127.0.0.1:57615
+1600163251568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofileWstQtV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600163253647	Marionette	INFO	Listening on port 57623
+1600163253691	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth2.bitrix24.net/oauth/authorize/?user_lang=ru&client_id=b24.5c50461379f281.16897529&redirect_uri=https%3A%2F%2Fdi-innova.bitrix24.ru%2F%3Fauth_service_id%3DBitrix24Net&scope=auth,profile&response_type=code&mode=page&state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253D590f3881d7a1051f3a6930ce6d7d4ad2%26mode%3Dpage line 2828 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600166049984	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166050709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166052107	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600167525759	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600167526482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600167527896	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600182981419	Marionette	INFO	Stopped listening on port 57623
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ntent/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166060911	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166061627	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600167534585	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600182984287	Marionette	INFO	Stopped listening on port 57701
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ntent/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166068499	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166069215	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166070440	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600166071159	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+1600182985550	Marionette	INFO	Stopped listening on port 57779
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600244858646	geckodriver	INFO	Listening on 127.0.0.1:54000
+1600244861725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofilekIWg5H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600244863518	Marionette	INFO	Listening on port 54009
+1600244863759	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth2.bitrix24.net/oauth/authorize/?user_lang=ru&client_id=b24.5c50461379f281.16897529&redirect_uri=https%3A%2F%2Fdi-innova.bitrix24.ru%2F%3Fauth_service_id%3DBitrix24Net&scope=auth,profile&response_type=code&mode=page&state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253D590f3881d7a1051f3a6930ce6d7d4ad2%26mode%3Dpage line 2828 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/imJavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?159559649467251600245214604	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600245215324	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600245216072	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600245217297	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600253649139	Marionette	INFO	Stopped listening on port 54009
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ps://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600245208423	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600245223769	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600245224483	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600253650095	Marionette	INFO	Stopped listening on port 54092
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600253651262	Marionette	INFO	Stopped listening on port 54171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600253656107	geckodriver	INFO	Listening on 127.0.0.1:55942
+1600253659197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofilejXA13M"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600253661092	Marionette	INFO	Listening on port 55950
+1600253661203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth2.bitrix24.net/oauth/authorize/?user_lang=ru&client_id=b24.5c50461379f281.16897529&redirect_uri=https%3A%2F%2Fdi-innova.bitrix24.ru%2F%3Fauth_service_id%3DBitrix24Net&scope=auth,profile&response_type=code&mode=page&state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253D590f3881d7a1051f3a6930ce6d7d4ad2%26mode%3Dpage line 2828 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600253670956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600254314770	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600254315497	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600254316718	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600264490706	Marionette	INFO	Stopped listening on port 55950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600254323183	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600254323899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600254324618	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600254325842	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600254326556	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600264491917	Marionette	INFO	Stopped listening on port 56027
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Loop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600264493163	Marionette	INFO	Stopped listening on port 56105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600264504182	geckodriver	INFO	Listening on 127.0.0.1:57861
+1600264507247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofileVNQv8w"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600264509149	Marionette	INFO	Listening on port 57869
+1600264509256	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth2.bitrix24.net/oauth/authorize/?user_lang=ru&client_id=b24.5c50461379f281.16897529&redirect_uri=https%3A%2F%2Fdi-innova.bitrix24.ru%2F%3Fauth_service_id%3DBitrix24Net&scope=auth,profile&response_type=code&mode=page&state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253D590f3881d7a1051f3a6930ce6d7d4ad2%26mode%3Dpage line 2828 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600266140445	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600266141667	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600266142899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600266143615	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600267231736	Marionette	INFO	Stopped listening on port 57869
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600266149745	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600266150458	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1600267232672	Marionette	INFO	Stopped listening on port 57948
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+rix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600267227900	Marionette	INFO	Stopped listening on port 58038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1600267237263	geckodriver	INFO	Listening on 127.0.0.1:59047
+1600267240328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Sergey\\AppData\\Local\\Temp\\rust_mozprofileq0NBN2"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1600267242727	Marionette	INFO	Listening on port 59055
+1600267242939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://auth2.bitrix24.net/oauth/authorize/?user_lang=ru&client_id=b24.5c50461379f281.16897529&redirect_uri=https%3A%2F%2Fdi-innova.bitrix24.ru%2F%3Fauth_service_id%3DBitrix24Net&scope=auth,profile&response_type=code&mode=page&state=site_id%3Ds1%26backurl%3D%252F%253Fcheck_key%253D590f3881d7a1051f3a6930ce6d7d4ad2%26mode%3Dpage line 2828 > injectedScript, line 1: ReferenceError: jQuery is not defined
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/imJavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?159559649467251600273392654	Marionette	INFO	Stopped listening on port 59055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600273393478	Marionette	INFO	Stopped listening on port 59132
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/im.min.js?1595596494672551, line 1: unreachable code after return statement
+JavaScript warning: https://di-innova.bitrix24.ru/bitrix/js/im/call/plain_call.min.js?159559649441352, line 1: unreachable code after return statement
+1600273394555	Marionette	INFO	Stopped listening on port 59207
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
